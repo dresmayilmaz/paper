@@ -31,3 +31,7 @@ Confocal for roughness analysis
 # Results
 
 The simulations and experimental results match with each other, showing that lower applied voltages follow the theoratical trend for packing density.
+
+# Figures
+
+Some nice figures over here
