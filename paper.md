@@ -18,3 +18,7 @@ Since TGO is one of the most common failure modes in EBCs, reducing the growth r
 # Simulations
 
 We simulate how particle size impact packing density.
+
+# Methodology
+
+Electrophoretic deposition is applied following to the previous published paper (Yilmaz, 2022) but deposition parameters are varied.
