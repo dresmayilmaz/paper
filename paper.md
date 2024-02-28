@@ -1,5 +1,4 @@
 # Title 
-<<<<<<< HEAD
 A story of microstructure of EBCs using EPD based on simulations
 
 # Author
