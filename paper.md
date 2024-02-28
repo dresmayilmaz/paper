@@ -1,5 +1,4 @@
 # Title 
-<<<<<<< HEAD
 A story of microstructure of EBCs using EPD based on simulations
 
 # Author
@@ -26,3 +25,5 @@ Electrophoretic deposition is applied following to the previous published paper 
 Simulations - Pyhton
 
 Scanning electron microscopy for microstructural analysis
+
+Confocal for roughness analysis
