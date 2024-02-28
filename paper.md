@@ -1,8 +1,9 @@
 # Title 
-Controlling microstructure of EBCs using EPD
+Simulations on controlling microstructure of EBCs using EPD
 
 # Author
 Esma Yilmaz
+Ping Xiao
 
 # Introduction
 We are looking for a simple and versetile way to control the final microstructure of EBCs.
