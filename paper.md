@@ -1,8 +1,10 @@
 # Title 
-A story of microstructure of EBCs using EPD
+<<<<<<< HEAD
+A story of microstructure of EBCs using EPD based on simulations
 
 # Author
 Esma Yilmaz
+Ping Xiao
 
 # Introduction
 We are looking for a simple and versetile way to control the final microstructure of EBCs.
@@ -12,3 +14,7 @@ Using different process parameters, the particle size is controlled, changing th
 Paksoy et al (2023) showed the importance of top coat density on TGO formation. 
 
 Since TGO is one of the most common failure modes in EBCs, reducing the growth rate is a good stragety to increase the lifetime.
+
+# Simulations
+
+We simulate how particle size impact packing density.
