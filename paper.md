@@ -1,5 +1,5 @@
 # Title 
-Controlling microstructure of EBCs using EPD
+A story of microstructure of EBCs using EPD
 
 # Author
 Esma Yilmaz
