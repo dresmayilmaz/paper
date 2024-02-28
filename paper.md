@@ -2,7 +2,9 @@
 A story of microstructure of EBCs using EPD based on simulations
 
 # Author
-Ping Xiao Esma Yilmaz 
+Ping Xiao, University of Manchester
+Esma Yilmaz, University of Manchester
+
 
 # Introduction
 We are looking for a simple and versetile way to control the final microstructure of EBCs.
